@@ -1,0 +1,37 @@
+.generalNumber{
+
+    background-color: green;
+    width: 140px;
+    height: 100px;
+
+}
+.winLoss{
+    background-color: lightblue;
+    width: 80px;
+    height: 100px;
+}
+
+.headline{
+    background-color: orange;
+    width: 350px;
+   
+}
+
+.content {
+    background-color: beige;
+    color: green;
+
+
+}
+
+.scoreIs{
+    background-color: darkgreen;
+    width: 50%;
+}
+
+.scoreNumber{
+    background-color: darkgreen;
+    width: 50%;
+    height: 100px;
+    margin-top: 10px;
+}
